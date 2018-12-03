@@ -1,0 +1,44 @@
+#vacationbg{
+	background-size: 100%;
+}
+#madlib-submit-btn { 
+    cursor: pointer;
+	background-color: #4CAF50; /* Green */
+	font-size: 16px;
+	font-family: Arial;
+	border-radius: 10px;
+	color: white;
+	height: 40px;
+	width: 180px;
+}
+
+.entry-desc {
+	font-family: Arial;
+	color: yellow;
+	font-weight: bold;
+}
+
+input {
+    width: 80%;
+}
+
+table {
+	width: 80%;
+	border: 20px;
+}
+
+td  {
+    width: 50%;	
+}
+
+h1 {
+    font-family: Arial;
+	color: white;
+}
+
+p {
+	width: 100%;
+	font-family: Arial;   
+	color: white;
+}
+/*idea- opacity when not all fields are filled in */
